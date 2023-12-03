@@ -12,7 +12,7 @@ from model.model_2 import predict_2
 choice_model = None
 image = None
 push_model = False
-video='images/IMG_9885.MP4'
+video='images/IMG_9885.mp4'
 
 st.write("""
  # Детекционные модели YOLOv5 & YOLOv8n🔎
