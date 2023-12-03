@@ -1,4 +1,4 @@
-# Project about Computer Vision
+# Project - Computer Vision by YOLO and Autoencoder.
 
 ### Чтобы воспользоваться созданным приложением, перейдите по [ссылке](https://computervision-yolo.streamlit.app).
 
